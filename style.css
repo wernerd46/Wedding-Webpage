@@ -1,0 +1,139 @@
+html, body {
+  background-color: #cccdce;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.header {
+  background-color: #fff;
+  height: 200px;
+  text-align: center;
+  
+}
+
+.header h1 {
+  color: #31363d;
+  font-size: 32px;
+  font-style: oblique;
+  margin: 0 auto;
+  position: relative;
+  padding-bottom: 10px;
+  top: 44px;
+  text-transform: uppercase;
+}
+
+.header img {
+	height: 100px;
+	width: 100px;
+	margin-top: 45px;
+}
+
+.nav {
+  background-color: #31363d;
+  background-size: 100%;
+  height: 50px;
+}
+
+.nav ul {
+  margin: 0 0 30px;
+  text-align: center;
+  margin: 0 auto;
+  background-color: #31363d;
+  background-size: 100%;
+  padding-top: 15px;
+  font-size: 18px;
+  font-family: Verdana;
+}
+
+.nav li {
+  -webkit-transition:color 0.25s;
+  transition:color 0.25s;
+  display: inline;
+  color: #fff;
+  text-transform: uppercase;
+  padding: 0 10px;
+}
+
+.nav a:hover {
+	text-decoration: none;
+	color: white;
+}
+
+.nav li:hover {
+ 
+}
+
+.nav li:active {
+	color: white;
+}
+
+.nav a {
+	color: white;
+}
+
+.jumbotron {
+	margin: 0px 0px 0px 0px;
+	padding: 20px;
+	text-align: center;
+	background-color: white;
+}
+
+
+.footer {
+    background-color: #31363d;
+    text-align: center;
+    text-transform: uppercase;
+	margin: 0 auto;
+	color: white;
+}
+
+.form-group {
+	width: 50%;
+	margin-left: 600px;
+}
+
+.btn {
+	margin-left: 626px;
+}
+
+.contact-h1 {
+	text-align: center;
+	margin-top: 0px;
+	padding-top: 10px;
+}
+
+.row {
+	margin: 0 auto; 
+	padding: 10px;
+
+}
+
+#con {
+	background: url("http://cdn.paper4pc.com/images/blurred-wallpaper-5.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	backround-position: center;
+}
+
+#wed {
+	background: url("http://cdn.paper4pc.com/images/blurred-rings-wallpaper-1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#recep {
+	background: url("http://cdn.paper4pc.com/images/blurred-rings-wallpaper-1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#reg {
+	background: url("http://cdn.paper4pc.com/images/blurred-rings-wallpaper-1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
